@@ -12,9 +12,9 @@
     <br />
     <a href="https://github.com/YunusEmreAlps/Touch/tree/master/touch">Download</a>
     ·
-    <a href="https://github.com/YunusEmreAlps/Touch/issues">Report Bug</a>
+    <a href="https://github.com/BerkayOzturkCE/Touch/issues">Report Bug</a>
     ·
-    <a href="https://github.com/YunusEmreAlps/Touch/issues">Request Feature</a>
+    <a href="https://github.com/BerkayOzturkCE/Touch/issues">Request Feature</a>
   </p>
 </p>
 
