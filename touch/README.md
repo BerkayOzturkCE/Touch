@@ -10,7 +10,7 @@
   <p align="center">
     Touch Other Lives With Your Steps
     <br />
-    <a href="https://github.com/YunusEmreAlps/Touch/tree/master/touch">Download</a>
+    <a href="https://github.com/BerkayOzturkCE/Touch/tree/master/touch">Download</a>
     ·
     <a href="https://github.com/BerkayOzturkCE/Touch/issues">Report Bug</a>
     ·
