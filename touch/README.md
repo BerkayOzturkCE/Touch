@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/YunusEmreAlps/Touch/tree/master/touch">
+  <a href="https://github.com/BerkayOzturkCE/Touch/tree/master/touch">
     <img src="assets/images/Touch_Logo.png" alt="Logo" width="400">
   </a>
 
@@ -77,7 +77,7 @@ To run any Android application built with Flutter you need to configure the envi
 - Clone this repo to your local machine using:
 
 ```
-https://github.com/YunusEmreAlps/Touch/tree/master/touch
+https://github.com/BerkayOzturkCE/Touch/tree/master/touch
 ```
 
 ### Setup
@@ -97,7 +97,7 @@ flutter run
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/YunusEmreAlps/Touch/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/BerkayOzturkCE/Touch/issues) for a list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
