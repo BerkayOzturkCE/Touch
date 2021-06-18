@@ -123,6 +123,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 - Linkedin at [Berkay Öztürk](https://www.linkedin.com/in/berkay-öztürk-0694a4208/)
-- Linkedin at [Yunus Emre Alpu](https://www.linkedin.com/in/yunus-emre-alpu-5b1496151/)
-- Linkedin at [Buse Sena Aksu](https://www.linkedin.com/in/busesenaaksu/)
 
