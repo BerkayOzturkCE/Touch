@@ -150,7 +150,7 @@ class AppConstant {
   static final String suggestions = 'Suggestions';
   static final String katkiOneriDetails = 'If you have any queries or issues for which you need your assistance: Feel free to mail us.';
   static final String address = '';
-  static final String phoneNumber = '+90 553 698 89 10';
+  static final String phoneNumber = '+90 507 961 7334';
   static final String eposta = 'info@Touch.com.tr';
   static final String magaza = '';
   static final String eMagaza = 'Touch Info Webstite';
