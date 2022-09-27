@@ -140,7 +140,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## 📌 Contact
 
-- Linkedin at [Berkay Öztürk](https://www.linkedin.com/in/broztrk/)
+<a href="https://www.linkedin.com/in/broztrk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="donpablonow" height="30" width="40" /></a>
+<a href="https://www.instagram.com/brky_oztrk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="donpablonow" height="30" width="40" /></a>
+<a href="https://twitter.com/BerkayOzturkCE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="donpablonow" height="30" width="40" /></a>
+
+
 
 <!-- SCREENSHOTS -->
 ## Screenshots
